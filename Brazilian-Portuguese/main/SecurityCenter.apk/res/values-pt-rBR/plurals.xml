@@ -173,6 +173,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">A pontuação de desempenho do seu dispositivo é inferior a %d pontos. Otimizar agora?</item>
+        <item quantity="one">A pontuação de desempenho do seu dispositivo é inferior a %d ponto. Otimizar agora?</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avançar %d segundos</item>
         <item quantity="one">Avançar %d segundo</item>
@@ -184,6 +188,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
         <item quantity="one">Pesquisar entre %d app</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riscos relacionados à privacidade</item>
+        <item quantity="one">%d risco relacionado à privacidade</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemas requerem otimização</item>
@@ -232,6 +240,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Check-in feito %d dias seguidos</item>
         <item quantity="one">Check-in feito %d vez</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Entendi (%ds)</item>
+        <item quantity="one">Entendi (%ds)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Experimente o Modificador de voz agora

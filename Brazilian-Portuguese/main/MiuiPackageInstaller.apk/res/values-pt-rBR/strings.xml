@@ -73,6 +73,7 @@
   <string name="caller_app">Solicitação de permissão de %1$s</string>
   <string name="cancel">Cancelar</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
+  <string name="close">Fechar</string>
   <string name="copy">Copiar</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Sair</string>
@@ -84,6 +85,7 @@
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_permission_description">executar uma ação desconhecida</string>
   <string name="devicePerms">Acesso ao dispositivo</string>
   <string name="dlg_app_replacement_statement">"O app que você está instalando substituirá outro app.
@@ -354,22 +356,22 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -452,6 +454,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="security_settings_desc">Permitir que este app:</string>
+  <string name="send">Enviar</string>
   <string name="settings">Configurações</string>
   <string name="settings_warning_dialog_detail">"Você será solicitado nos seguintes casos:
  "<li>Quando o app estiver infectado.</li>"

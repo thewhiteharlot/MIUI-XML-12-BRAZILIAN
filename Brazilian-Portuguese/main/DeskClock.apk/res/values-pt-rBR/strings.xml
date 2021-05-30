@@ -119,6 +119,7 @@
   <string name="clock_bg_button_setting_title">Cor de fundo</string>
   <string name="close">Fechar</string>
   <string name="close_alarm">Desativar</string>
+  <string name="close_alarm_new">Parar</string>
   <string name="common_settings">Configurações</string>
   <string name="common_timer_selector">Selecionar temporizador</string>
   <string name="confirm">Confirmar</string>
@@ -130,6 +131,9 @@
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
   <string name="copy">Copiar</string>
   <string name="current_stopwatch_time">Tempo atual</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="day_concat">", "</string>
@@ -167,6 +171,7 @@
   <string name="edit_label">Editar descrição do alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
   <string name="edit_systemtime_setting_summary">Data, hora, e relógio duplo</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">Tarde</string>
@@ -254,7 +259,7 @@
   <string name="life_post_setting_open_background_title">Mostrar imagem de fundo</string>
   <string name="life_post_setting_open_desc">Desativar alarmes recorrentes entre 04:00 e 10:00 da manhã para ouvir a previsão do tempo atual</string>
   <string name="life_post_setting_open_subtitle">Receber informações de clima quando você desativar alarmes entre 4:00 e 9:30</string>
-  <string name="life_post_setting_open_summary">Incluir informações de clima no primeiro alarme desligado entre 4:00 e 10:00</string>
+  <string name="life_post_setting_open_summary">Inclui informações de clima no primeiro alarme desativado entre 4:00 e 10:00</string>
   <string name="life_post_setting_open_title">Receber relatórios matinais</string>
   <string name="life_post_setting_wake_up_list_title">Histórico quando acordado</string>
   <string name="life_post_wake_up_acumu_day_title">Contagem de dias</string>
@@ -356,22 +361,22 @@
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -396,6 +401,7 @@
   <string name="noon">Meio-dia</string>
   <string name="normal_settings">Configurações gerais</string>
   <string name="not_set">Não definido</string>
+  <string name="not_set_temporarily">Não, obrigado</string>
   <string name="not_update">Agora não</string>
   <string name="oneshot_alarm">Excluir após alarme disparar</string>
   <string name="open_keep_screen">A tela será mantida ligada</string>
@@ -436,13 +442,15 @@
   <string name="search_stopwatch_keywords">Cronômetro</string>
   <string name="search_timer_keywords">Temporizador</string>
   <string name="search_worldclock_keywords">Hora;Relógio Mundial;Relógio</string>
+  <string name="select_operation">Selecionar</string>
   <string name="send">Enviar</string>
   <string name="set_alarm">Selecionar hora</string>
   <string name="set_alarm_choose_ringtone">Selecionar toque</string>
   <string name="set_alarm_done">Concluído</string>
   <string name="set_alarm_other">Outros</string>
-  <string name="setting_alarm_arriving_subtitle">Mostrar notificações antes do alarme disparar</string>
-  <string name="setting_alarm_arriving_summary">Mostrar uma notificação antes de tocar o alarme</string>
+  <string name="set_now">Definir</string>
+  <string name="setting_alarm_arriving_subtitle">Exibe notificações antes do alarme disparar</string>
+  <string name="setting_alarm_arriving_summary">Exibe uma notificação antes de tocar o alarme</string>
   <string name="setting_alarm_arriving_title">Notificar antes de tocar</string>
   <string name="setting_complete">Concluído</string>
   <string name="settings">Configurações</string>
@@ -451,9 +459,10 @@
   <string name="shortcut_stop_watch">Iniciar cronômetro</string>
   <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
   <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Ative para que os alarmes definidos, toquem quando o seu dispositivo estiver desligado. Apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
   <string name="shutdown_alarm_alert_title">Alarme com o telefone desligado</string>
-  <string name="shutdown_alarm_disable_summary">O alarme não tocará depois que o dispositivo for desligado</string>
-  <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos depois que você desligar seu dispositivo</string>
+  <string name="shutdown_alarm_disable_summary">O alarme não tocará após você desligar o dispositivo</string>
+  <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
   <string name="silent_alarm_summary">Silencioso</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -479,6 +488,7 @@
   <string name="sleep_time">Dormiu</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Deslize para cima para desativar</string>
+  <string name="slider_text_new">Deslize para cima para parar</string>
   <string name="snooze_confirm_cancel">Dispensar alarme</string>
   <string name="snooze_duration">Soneca</string>
   <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -586,7 +596,8 @@
   <string name="timer_end_time">O temporizador vai parar às %s</string>
   <string name="timer_end_time_format">"HH:mm, dd 'de' MMMM"</string>
   <string name="timer_end_time_format_today">HH:mm</string>
-  <string name="timer_got_it">OK</string>
+  <string name="timer_got_it">"OK"</string>
+  <string name="timer_got_it_new">Silenciar</string>
   <string name="timer_is_paused">O temporizador está pausado</string>
   <string name="timer_item_delete">Excluir</string>
   <string name="timer_item_duration_display">%1$d min %2$d seg</string>
@@ -626,7 +637,8 @@
   <string name="vibrate_pref_summary">Vibrar quando alarme tocar</string>
   <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
   <string name="voice_add_alarm">Adicionar alarme usando um comando de voz</string>
-  <string name="volume_button_setting_desc">Atribuir funções para os botões Liga/Desliga e Volume +/-</string>
+  <string name="volume_button_setting_desc">Atribua funções para os botões 
+Liga/Desliga e Volume +/-</string>
   <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="wake_up_alert">Alarme</string>
@@ -636,6 +648,7 @@
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
+  <string name="week_ringtone_recommend_desc">O alarme com sons da natureza, reproduz diferentes sons dependendo da data. Definir como seu alarme padrão?</string>
   <string name="white_noise_selector">Selecionar áudio</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
   <string name="worldclock_empty_text">Nenhum relógio</string>
@@ -645,6 +658,7 @@
   <string name="worldclock_resident_city_text_detail">O Relógio duplo está ativado</string>
   <string name="worldclock_search_city">Selecionar cidade</string>
   <string name="worldclock_second_time">Hora em %s</string>
+  <string name="worldclock_second_time_desc">"%s: "</string>
   <string name="worldclock_title">Relógio</string>
   <string name="worldclock_world_time">Fusos horários</string>
   <string name="worldcolock_date_display_prefix">"Atual: "</string>

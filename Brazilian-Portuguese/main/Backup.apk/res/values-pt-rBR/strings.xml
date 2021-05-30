@@ -48,6 +48,7 @@
   <string name="am">AM</string>
   <string name="app_name">"Backup"</string>
   <string name="apps_and_data_item_desc">App e dados</string>
+  <string name="apps_item_desc">"App"</string>
   <string name="auto_backup">Programar backup de rotina</string>
   <string name="auto_backup_all_user_apps">Todos os apps</string>
   <string name="auto_backup_choose">Itens para o backup</string>
@@ -401,22 +402,22 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -463,6 +464,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="new_pc_backup_summary2_pad">Conecte o seu smartphone ao computador usando um cabo USB.</string>
   <string name="new_pc_backup_summary4">Observação: você também pode copiar fotos e vídeos em DCIM.</string>
   <string name="new_pc_restore_content1">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
+  <string name="new_pc_restore_content1_pad">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
   <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para a pasta MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content2_pad">%d. Copie o backup do seu computador para a pasta MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" e selecione os itens para restaurar.</string>
@@ -926,7 +928,7 @@ Libere espaço ou faça várias transferências menores."</string>
   <string name="usb_trans_old_phone_low_space_title">Sem espaço suficiente</string>
   <string name="usb_trans_select_data_no_space">"Apenas %s estão disponíveis no seu drive USB.
 Libere algum espaço ou transfira só itens importantes."</string>
-  <string name="user_feedback">Feedback</string>
+  <string name="user_feedback">"Feedback"</string>
   <string name="user_name">Apple ID ou e-mail</string>
   <string name="user_name_null">O usuário não pode estar em branco</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>

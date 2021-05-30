@@ -29,12 +29,12 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Gravador de Tela</string>
   <string name="app_notification_channel_record_complete">Notificações de gravações concluídas</string>
-  <string name="app_notification_info">O Gravador de tela está executando em segundo plano</string>
-  <string name="app_notification_record_complete">"Gravação de tela salva na Galeria
-Toque para visualizar"</string>
+  <string name="app_notification_info">O Gravador de tela está sendo executado em 2° plano</string>
+  <string name="app_notification_record_complete">"Gravação de tela salva na Galeria.
+Toque para visualizar."</string>
   <string name="app_notification_title">Gravador de Tela</string>
   <string name="auto_stop_title">Vídeo salvo com sucesso</string>
   <string name="battery_not_allowed" formatted="false">Não é possível gravar com a bateria abaixo de 3%. Certifique-se de que a bateria esteja no mínimo 20% carregada.</string>
@@ -43,7 +43,7 @@ Toque para visualizar"</string>
   <string name="bubble_text">Toque para iniciar a gravação</string>
   <string name="button_back">Voltar</string>
   <string name="button_clear_storage">Liberar espaço</string>
-  <string name="button_confirm">OK</string>
+  <string name="button_confirm">"OK"</string>
   <string name="button_goon_recorder">Retomar</string>
   <string name="cancel_edit">Cancelar</string>
   <string name="cannot_change_frames">A taxa de quadros só pode ser personalizada para gravações com taxa de quadros fixa.</string>
@@ -173,22 +173,22 @@ Toque para visualizar"</string>
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -209,9 +209,9 @@ Toque para visualizar"</string>
   <string name="permission_intro_microphone">Para gravar o som quando a fonte de áudio estiver configurada como microfone</string>
   <string name="permission_intro_storage">Para salvar gravações da tela</string>
   <string name="permission_microphone_desc">Usar o microfone como fonte de áudio para gravações de tela</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-  <string name="quit_recording">Sair do Gravador de Tela</string>
+  <string name="quit_recording">Saindo do Gravador de Tela</string>
   <string name="recording_failure">Não foi possível gravar, tente novamente</string>
   <string name="recording_max_size">A gravação foi parada e salva porque o arquivo do vídeo atingiu seu limite de tamanho. Inicie a gravação navamente caso deseje continuar a gravar.</string>
   <string name="recording_without_mic">O microfone está ocupado e não pode gravar áudio agora.</string>
@@ -309,6 +309,7 @@ Toque para visualizar"</string>
   <string name="using_record_confirm_ok">Permitir</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="view_recorded_file">Toque para ver o arquivo gravado</string>
   <string name="warning_recording_when_a2dp_connect">Seu dispositivo não suporta a gravação de sons do sistema enquanto o fone de ouvido Bluetooth estiver sendo usado.</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>

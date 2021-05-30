@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
-  <string name="accessibility_calllog_detail">Registro de chamadas detalhado</string>
+  <string name="accessibility_calllog_detail">Histórico de chamadas detalhado</string>
   <string name="accessibility_contact_detail">Detalhes do contato</string>
   <string name="account_container_title">Importado de</string>
   <string name="account_default">Local</string>
@@ -81,7 +81,8 @@
   <string name="bh_back">Retornar</string>
   <string name="bh_bill_balance">Saldo</string>
   <string name="bh_bill_charge">Saldo de recarga</string>
-  <string name="bh_bugreport">Comentário de negócios</string>
+  <string name="bh_bills_info_label">Detalhes</string>
+  <string name="bh_bugreport">Feedback de negócios</string>
   <string name="bh_business_hall_is_here">Os serviços da operadora estão aqui</string>
   <string name="bh_business_style">Select interface</string>
   <string name="bh_business_style_new">New</string>
@@ -92,14 +93,21 @@
   <string name="bh_cancel">Cancelar</string>
   <string name="bh_cannot_action">Não é possível usar %1$s. Instale o app correspondente primeiro.</string>
   <string name="bh_cannot_fetch_num">Número de telefone desconhecido</string>
-  <string name="bh_cannot_login_miacount">"Não foi possível entrar com a Conta Mi'"</string>
+  <string name="bh_cannot_login_miacount">Não foi possível entrar com a Conta Mi</string>
+  <string name="bh_card_order_detail">Informação do pedido</string>
+  <string name="bh_card_order_name">Pacote de serviço</string>
+  <string name="bh_card_order_pay_price">Quantia paga</string>
+  <string name="bh_card_order_price">Preço</string>
   <string name="bh_charge_confirm">Adicionar %2$s CNY para %1$s?</string>
   <string name="bh_charge_continue">Recarregar</string>
   <string name="bh_charge_number">Recarregando até %1$s</string>
   <string name="bh_charged_phone_number">Número de telefone: %1$s</string>
   <string name="bh_close_traffic_package">Fechar detalhes do plano da operadora</string>
-  <string name="bh_cmcc">China Mobile</string>
-  <string name="bh_confirm">OK</string>
+  <string name="bh_cmcc">"China Mobile"</string>
+  <string name="bh_confirm">"OK"</string>
+  <string name="bh_connect_address">Nome do destinatário</string>
+  <string name="bh_connect_name">Destinatário</string>
+  <string name="bh_connect_number">Número de telefone do destinatário</string>
   <string name="bh_contact_number">%1$s dos seus contatos</string>
   <string name="bh_ct">China Telecom</string>
   <string name="bh_cu">China Unicom</string>
@@ -113,6 +121,8 @@
   <string name="bh_edit_saved_phone_number">Editar tag para o número salvo</string>
   <string name="bh_edit_sim_num">Editar número de telefone do SIM</string>
   <string name="bh_exchange_number">Alterar número</string>
+  <string name="bh_express_name">Serviço de entrega</string>
+  <string name="bh_express_number">Número da embalagem</string>
   <string name="bh_fetch_balance">Verificar saldo</string>
   <string name="bh_flow_exceed">Ultrapassou o limite</string>
   <string name="bh_funtion_desc">Bem-vindo ao Serviços de operadora Mi! Você pode usar este app para verificar o saldo do seu telefone, comprar minutos de chamadas e dados móveis e muito mais. Este app precisa se conectar à rede para funcionar normalmente.</string>
@@ -132,20 +142,24 @@
   <string name="bh_more_recommend">Mais recomendações</string>
   <string name="bh_more_traffic_pkg">Mais pacotes de dados</string>
   <string name="bh_more_value">Outra quantia</string>
-  <string name="bh_ms">Mi SIM</string>
+  <string name="bh_ms">"Mi SIM"</string>
   <string name="bh_net_error">Ocorreu um erro de rede</string>
-  <string name="bh_no_sim">"O cartão SIM não está instalado"</string>
-  <string name="bh_no_sim_inserted">"O cartão sim não está instalado"</string>
+  <string name="bh_no_sim">O cartão SIM não está inserido</string>
+  <string name="bh_no_sim_inserted">O cartão SIM não está inserido</string>
+  <string name="bh_none">Nenhum</string>
   <string name="bh_not_contact">"Não foi possível encontrar os resultados"</string>
   <string name="bh_notice">Atenção</string>
   <string name="bh_online_service">Suporte online</string>
   <string name="bh_option_agree_dec">Permita que o Mi Carrier Services se conecte à Internet e conceda as permissões necessárias antes de usar o app.</string>
+  <string name="bh_order_detail">Detalhes do pedido</string>
   <string name="bh_order_id">ID do pedido</string>
   <string name="bh_order_loading">Só um momento…</string>
   <string name="bh_order_pay">Pagamento</string>
+  <string name="bh_order_status">Status do pedido</string>
   <string name="bh_order_time">Tempo de transação</string>
   <string name="bh_other_charge">Outro número de telefone</string>
   <string name="bh_other_operator">Outras operadoras</string>
+  <string name="bh_other_traffic">Outro número de telefone</string>
   <string name="bh_pay_fail_desc">"Não foi possível conectar à rede. Volte e conclua o pagamento novamente."</string>
   <string name="bh_pay_fee">Total</string>
   <string name="bh_pay_success_desc">Seu saldo pode ser creditado com um atraso</string>
@@ -173,16 +187,26 @@
   <string name="bh_save_sccuss">Salvo com sucesso</string>
   <string name="bh_saved_number">Número salvo: %1$s</string>
   <string name="bh_should_login_to_buy">Faça login na Conta Mi para poder comprar minutos de chamada e dados móveis</string>
-  <string name="bh_sim">SIM %1$d</string>
+  <string name="bh_sim">"SIM %1$d"</string>
   <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
   <string name="bh_system_recommend">Recomendações do sistema</string>
   <string name="bh_system_recommend_des">Permita-nos analisar seu tráfego e recomendar produtos digitais com base nos resultados</string>
   <string name="bh_tag">*%1$s</string>
   <string name="bh_tag_phones">Números de telefones usados com frequência</string>
-  <string name="bh_tags_number_exceed">"Não é possível salvar mais números"</string>
-  <string name="bh_tb">TB</string>
+  <string name="bh_tags_number_exceed">Não é possível salvar mais números</string>
+  <string name="bh_tb">"TB"</string>
+  <string name="bh_text_buy_time">Pedido criado</string>
+  <string name="bh_text_charge_name">Valor</string>
+  <string name="bh_text_no_order">Nenhum pedido aqui</string>
+  <string name="bh_text_operator">Operadora</string>
+  <string name="bh_text_order_id">Número do pedido</string>
+  <string name="bh_text_paid_fee">Valor do pedido</string>
+  <string name="bh_text_phone_num">Número de telefone</string>
+  <string name="bh_text_traffic_package">Pacote de dados</string>
   <string name="bh_time_before">%1$s %2$s atrás</string>
+  <string name="bh_toast_copy">Copiado com sucesso</string>
   <string name="bh_toast_start_intent_failed">"Não foi possível encontrar um app para fazer esta operação"</string>
+  <string name="bh_traffic_charge">Obtenha dados móveis</string>
   <string name="bh_traffic_service">Mais serviços</string>
   <string name="bh_traffic_surplus">Dados restantes</string>
   <string name="bh_traffic_title">Obter dados</string>
@@ -193,7 +217,7 @@
   <string name="bh_will_open">Abrindo %1$s…</string>
   <string name="bh_wrong_number_hint">Digite um número de telefone válido</string>
   <string name="bh_yuan">CNY</string>
-  <string name="bills_info_label">Detailhes</string>
+  <string name="bills_info_label">Detalhes</string>
   <string name="bind_simcard_default">SIM padrão para chamadas</string>
   <string name="bind_simcard_menu">Definir SIM padrão para chamadas</string>
   <string name="bind_simcard_no_dual">Não foi possível encontrar Dual SIM</string>
@@ -214,6 +238,8 @@
   <string name="call_disambig_title">Escolher número</string>
   <string name="call_fax_home">Ligar para fax residencial</string>
   <string name="call_fax_work">Ligar para fax comercial</string>
+  <string name="call_feature_volte">"VoLTE"</string>
+  <string name="call_feature_vowifi">"VoWiFi"</string>
   <string name="call_home">Ligar para residência</string>
   <string name="call_isdn">Ligar para ISDN</string>
   <string name="call_main">Ligar para número principal</string>
@@ -351,7 +377,7 @@
   <string name="contactSavedToast">Contato salvo</string>
   <string name="contact_clear_search_history">Limpar histórico</string>
   <string name="contact_delete_toast">Contato excluído com sucesso</string>
-  <string name="contact_detail_action_item_calllog">Registro de chamadas</string>
+  <string name="contact_detail_action_item_calllog">Histórico de chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Anotações</string>
   <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
   <string name="contact_detail_calllog_correct_yellow_page">Corrigir ou reportar</string>
@@ -414,26 +440,29 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="customLabelPickerTitle">Rótulo personalizado</string>
   <string name="custom_list_filter">Definir visualização personalizada</string>
   <string name="custom_nickname_hint">Inserir apelido</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_year_toggle">Informe um ano</string>
   <string name="default_ringtone">Toque padrão</string>
-  <string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s tanto da nuvem quanto do dispositivo?</string>
+  <string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s da nuvem e deste dispositivo?</string>
   <string name="deleteConfirmationDetail">Excluir \"%s\"?</string>
   <string name="deleteConfirmation_title">Excluir este contato?</string>
-  <string name="delete_call_log_message">Excluir registro de chamadas?</string>
-  <string name="delete_call_log_selected_title">Excluir o(s) registro(s) de chamada(s) selecionado(s)?</string>
+  <string name="delete_call_log_message">Excluir histórico de chamadas?</string>
+  <string name="delete_call_log_selected_title">Excluir o(s) histórico(s) de chamada(s) selecionado(s)?</string>
   <string name="delete_call_log_title">Excluir histórico de chamadas</string>
   <string name="delete_conference_call_log_message">Excluir todos os registros de conferência telefônica associados a este contato agora?</string>
   <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"Unindo contatos… "</string>
-  <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão apagados.</string>
+  <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão excluídos.</string>
   <string name="delete_group_dialog_title">Excluir grupo</string>
   <string name="delete_selected_sim_entry_miui">Excluir contatos selecionados</string>
   <string name="delete_sim_entries_finish">Contatos no cartão SIM excluídos</string>
   <string name="delete_sim_entry_miui">Excluir</string>
-  <string name="deleting_sim_entry_miui">Excluindo contatos no cartão SIM</string>
+  <string name="deleting_sim_entry_miui">Excluindo contatos no cartão SIM…</string>
   <string name="deleting_sim_entry_miui_prepare">Preparando contatos…</string>
   <string name="description_call_log_incoming_call">Chamada recebida</string>
   <string name="description_call_log_incoming_forwarding_call">Recebendo chamada encaminhada</string>
@@ -483,7 +512,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
 • O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
 • Em dispositivos com iOS, o Bluetooth está nas Configurações.
 
-%2$d. O modo Detectável também deve estar ativado nos dispositivos Android.
+%2$d. O modo detectável também deve estar ativado nos dispositivos Android.
 
 %3$d. Toque em \"Avançar\", e dê ao app Contatos as permissões necessárias."</string>
   <string name="device_transfer_by_sim_message">"%1$d. Salve os contatos de outros dispositivos no cartão SIM;
@@ -535,6 +564,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="email_other">Enviar e-mail</string>
   <string name="email_work">Enviar e-mail para comercial</string>
   <string name="emergency_number_label">Número de emergência</string>
+  <string name="empty"/>
   <string name="ensure">OK</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -573,10 +603,10 @@ Motivo: \"%s\""</string>
   <string name="fail_reason_too_many_vcard">Muitos arquivos vCard estão no armazenamento.</string>
   <string name="fail_reason_unknown">Erro desconhecido.</string>
   <string name="favorites_list_empty">Nenhum favorito</string>
-  <string name="feedback">Comentários</string>
+  <string name="feedback">"Feedback"</string>
   <string name="firewall_setting">Lista de bloqueio</string>
   <string name="five_letter">JKL</string>
-  <string name="flow_use_analyse">Usage stats</string>
+  <string name="flow_use_analyse">Estatísticas de uso</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -773,7 +803,7 @@ Motivo: \"%s\""</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
+  <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
   <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">Seg</string>
@@ -790,22 +820,22 @@ Motivo: \"%s\""</string>
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -842,6 +872,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="night">Anoitecer</string>
   <string name="noAccounts">Para criar grupos você precisa de uma conta.</string>
+  <string name="no_contact_selected">Selecione um contato para ver os detalhes</string>
   <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente.</string>
   <string name="no_contacts_dialog_title">Não é possível encontrar contatos</string>
   <string name="no_phone_no_shortcut">Não é possível criar atalhos para contatos sem números de telefone</string>
@@ -854,7 +885,7 @@ Motivo: \"%s\""</string>
   <string name="not_applied">Não foi possível aplicar</string>
   <string name="not_set">Não definido</string>
   <string name="notification_click_detail">Toque para ver detalhes</string>
-  <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns de deus contatos</string>
+  <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns dos seus contatos</string>
   <string name="open_contact">Ver contato</string>
   <string name="open_dial_pad_description">Abrir teclado de discagem</string>
   <string name="option_delete_contact">Excluir</string>
@@ -868,7 +899,7 @@ Motivo: \"%s\""</string>
   <string name="option_view_group">Ver</string>
   <string name="organizationLabelsGroup">Posição</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
-  <string name="pay_fail">"Não foi possível concluir o pagamento"</string>
+  <string name="pay_fail">Não foi possível concluir o pagamento</string>
   <string name="pay_success">Pagamento concluído com sucesso</string>
   <string name="payphone">Telefone público</string>
   <string name="people">Contatos</string>
@@ -991,6 +1022,7 @@ Motivo: \"%s\""</string>
   <string name="remove_duplicate">"A MIUI o auxiliará a encontrar e unir contatos duplicados.
 
 Para começar, toque no ícone Unir na parte inferior da tela."</string>
+  <string name="residual_time_description">%1$sdia%2$shora</string>
   <string name="restore_app_btn_cancel">Cancelar</string>
   <string name="restore_app_btn_restore">OK</string>
   <string name="restore_app_description_content">Adicione um atalho à Tela inicial para acessar seus contatos mais rápido.</string>
@@ -1023,7 +1055,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_new_funcation">Sobre este recurso</string>
   <string name="search_open_new_funcation">Ativar</string>
-  <string name="search_open_new_funcation_tip">Quando este recurso estiver ativado, suas chamadas serão gravadas automaticamente, permitindo que você encontre chamadas durante as quais certas palavras foram mencionadas.</string>
+  <string name="search_open_new_funcation_tip">Quando este recurso estiver ativado, suas chamadas serão gravadas automaticamente, permitindo que você encontre chamadas onde certas palavras foram ditas.</string>
   <string name="search_open_new_funcation_title">Pesquisa de chamada de voz</string>
   <string name="search_results_searching">Pesquisando…</string>
   <string name="search_settings_description">Nomes dos seus contatos</string>
@@ -1094,7 +1126,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="smart_group_location_unavailable">Nenhuma informação de localização</string>
   <string name="sms">Mensagem de texto</string>
   <string name="sms_assistant">Enviar mensagem para %s</string>
-  <string name="sms_callback">Retorno de mensagem</string>
+  <string name="sms_callback">Enviar mensagem de retorno</string>
   <string name="sms_car">Enviar mensagem para carro</string>
   <string name="sms_company_main">Enviar mensagem para empresa (principal)</string>
   <string name="sms_custom">Enviar mensagem para %s</string>
@@ -1134,9 +1166,9 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"ebbie mith\"</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Debbie Smith\"</string>
   <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"eff ax\"</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Jeff Max\"</string>
   <string name="take_new_photo">Tirar uma nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="text_msim_balance">Usado hoje</string>
@@ -1239,7 +1271,7 @@ Selecione uma das seguintes opções:"</string>
   <string name="voicemail">Correio de voz</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="webview_btn_retry">Tentar novamente</string>
-  <string name="webview_network_failure">"Não foi possível conectar à rede"</string>
+  <string name="webview_network_failure">Não foi possível conectar à rede</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>

@@ -251,8 +251,8 @@
   <string name="default_filedownloader_notification_title">FileDownloader</string>
   <string name="default_upgrade_hint">"Olá!
 O Mi Vídeo está pronto para uma atualização.
-Atualize o app agora para verificar nossos novos recursos interessantes!
-Equipe do Mi Vídeo "</string>
+Atualize o app agora para conferir os novos recursos!
+Equipe do Mi Vídeo"</string>
   <string name="description">Descrição</string>
   <string name="detail_select_source">Selecionar fonte de reprodução</string>
   <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
@@ -317,8 +317,8 @@ Envie este código para o supervisor."</string>
   <string name="favorite_success">Adicionado aos favoritos com sucesso</string>
   <string name="fcm_fallback_notification_channel_label">Diversos</string>
   <string name="fcm_push_title">Vídeos populares</string>
-  <string name="feedback">Feedback</string>
-  <string name="feedback_activity_title">Feedback</string>
+  <string name="feedback">"Feedback"</string>
+  <string name="feedback_activity_title">"Feedback"</string>
   <string name="feedback_contact_empty">Insira suas informações de contato</string>
   <string name="feedback_contact_title">Informações de contato</string>
   <string name="feedback_detail_input_hint">Insira sua mensagem</string>
@@ -704,22 +704,22 @@ para vídeos"</string>
   <string name="month_february_short">Fev</string>
   <string name="month_february_shortest">Fev</string>
   <string name="month_january">Janeiro</string>
-  <string name="month_january_short">Jan</string>
+  <string name="month_january_short">"Jan"</string>
   <string name="month_january_shortest">"Jan"</string>
   <string name="month_july">Julho</string>
-  <string name="month_july_short">Jul</string>
+  <string name="month_july_short">"Jul"</string>
   <string name="month_july_shortest">"Jul"</string>
   <string name="month_june">Junho</string>
-  <string name="month_june_short">Jun</string>
+  <string name="month_june_short">"Jun"</string>
   <string name="month_june_shortest">"Jun"</string>
   <string name="month_march">Março</string>
-  <string name="month_march_short">Mar</string>
+  <string name="month_march_short">"Mar"</string>
   <string name="month_march_shortest">"Mar"</string>
   <string name="month_may">Maio</string>
   <string name="month_may_short">Mai</string>
   <string name="month_may_shortest">Mai</string>
   <string name="month_november">Novembro</string>
-  <string name="month_november_short">Nov</string>
+  <string name="month_november_short">"Nov"</string>
   <string name="month_november_shortest">"Nov"</string>
   <string name="month_october">Outubro</string>
   <string name="month_october_short">Out</string>
@@ -785,7 +785,7 @@ para vídeos"</string>
   <string name="notice_message_title">Notificações</string>
   <string name="notice_title">Mensagens</string>
   <string name="notification_bar">Área de notificações</string>
-  <string name="notification_bar_player_subtitle">Mostrar reprodutor minimizado na Área de notificações</string>
+  <string name="notification_bar_player_subtitle">Exibe o reprodutor minimizado na Área de notificações</string>
   <string name="notification_bar_player_title">Minimizar reprodutor</string>
   <string name="notification_open_tip">Ative para receber notificações</string>
   <string name="notification_recall_action">Ativar</string>
@@ -832,7 +832,7 @@ para vídeos"</string>
   <string name="ovp_episode_suffix">"Ep. %d "</string>
   <string name="ovp_favor">Favoritos</string>
   <string name="ovp_favor_null">Nenhum item aqui.</string>
-  <string name="ovp_feedback_title">Comentários do Mi Vídeo</string>
+  <string name="ovp_feedback_title">Feedback do Mi Vídeo</string>
   <string name="ovp_home_folder_is_null_jump_upfolder_tip">Não foi possível encontrar o arquivo de mídia. Saltando para a pasta superior.</string>
   <string name="ovp_home_item_camera">Galeria</string>
   <string name="ovp_home_item_download">"Downloads"</string>
@@ -849,7 +849,7 @@ para vídeos"</string>
   <string name="ovp_navigation_category">Categoria</string>
   <string name="ovp_navigation_content">Cooperação de conteúdo</string>
   <string name="ovp_navigation_favorites">Favoritos</string>
-  <string name="ovp_navigation_feedback">Comentários</string>
+  <string name="ovp_navigation_feedback">"Feedback"</string>
   <string name="ovp_navigation_history">Histórico</string>
   <string name="ovp_navigation_home">Início</string>
   <string name="ovp_navigation_language">Idioma</string>
@@ -1016,7 +1016,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="plus_change_poster">Alterar capa do álbum</string>
   <string name="plus_continue_watching">Continuar assistindo</string>
   <string name="plus_deleting_wait">Excluindo</string>
-  <string name="plus_fallback">Feedback</string>
+  <string name="plus_fallback">"Feedback"</string>
   <string name="plus_gallery_allvideos">Todos os vídeos</string>
   <string name="plus_gallery_folder_switch_guid">Toque para alternar para a visualização em lista</string>
   <string name="plus_gallery_mediatype_aimusic">Trilhas sonoras</string>

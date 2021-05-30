@@ -188,7 +188,7 @@
   <string name="edit_event_birthday_name_empty_hint">Insira um nome</string>
   <string name="edit_event_birthday_name_hint">Nome</string>
   <string name="edit_event_calendar_label">Agenda</string>
-  <string name="edit_event_choose_date">Escolher data</string>
+  <string name="edit_event_choose_date">Escolha a data</string>
   <string name="edit_event_confirm_message">Descartar mudanças?</string>
   <string name="edit_event_countdown_name_empty_hint">Insira o nome do evento</string>
   <string name="edit_event_countdown_name_hint">Evento</string>
@@ -238,7 +238,7 @@
   <string name="event_view">Ver evento</string>
   <string name="every_weekday">Dias úteis (Seg–Sex)</string>
   <string name="featured_title">Em destaque</string>
-  <string name="feedback">Feedback</string>
+  <string name="feedback">"Feedback"</string>
   <string name="festival_detail_title">"Festival"</string>
   <string name="file_exception">Ocorreu um erro</string>
   <string name="fixtures">Partidas</string>
@@ -549,10 +549,10 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="set_interval">Definir intervalo</string>
   <string name="set_reminder">Definir lembrete</string>
   <string name="setting">Configurações</string>
-  <string name="setting_about_calendar_version">Versão da Agenda:</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">Versão do MIUI:</string>
-  <string name="setting_about_summary">Versão:</string>
+  <string name="setting_about_calendar_version">"Versão da Agenda: "</string>
+  <string name="setting_about_imei">"IMEI: "</string>
+  <string name="setting_about_miui_version">"Versão da MIUI: "</string>
+  <string name="setting_about_summary">"Versão: "</string>
   <string name="setting_accounts">Contas de agenda</string>
   <string name="setting_change_language">Selecionar idioma da Agenda</string>
   <string name="setting_desc_import_todo">Importe tarefas agendadas das Anotações</string>
@@ -600,8 +600,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="subtitle_mi_calendar_predict_menstruation">Registre uma estimativa de próximos períodos usando a Agenda</string>
   <string name="subtitle_record_and_start_predict">Registre um período para estimar quando o próximo começará</string>
   <string name="subtitle_stick_record">Registre seus períodos para obter previsões mais precisas</string>
-  <string name="sunrise">Nascer do sol %1$s</string>
-  <string name="sunset">Pôr do sol %1$s</string>
+  <string name="sunrise">Nascer do sol às %1$s</string>
+  <string name="sunset">Pôr do sol às %1$s</string>
   <string name="tab_title_agenda">Eventos</string>
   <string name="tab_title_day">Dia</string>
   <string name="tab_title_month">Mês</string>
